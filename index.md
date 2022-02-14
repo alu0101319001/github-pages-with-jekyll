@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "First page on GitHub"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Prueba de la primera página en Github usando lenguaje *Markdown*
